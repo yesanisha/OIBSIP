@@ -1,0 +1,53 @@
+/* contact */
+#contact_form {
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    text-align: center;
+}
+
+.row label {
+    color: #FFFFFF;
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+input[type=text],
+textarea {
+    text-align: center;
+    border-radius: 10px;
+    margin: auto 0;
+    color: #000000;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+input[type=text] {
+    height: 25px;
+}
+
+input[type=submit] {
+    background-color: #123;
+    color: #FFFFFF;
+    border-radius: 10px;
+    font-size: 18px;
+    margin-left: 10px;
+
+}
+/* jyoti */
+
+.jyoti {
+    justify-content: center;
+    filter: blur(2px);
+    -webkit-filter: blur(2px);
+    margin: 0 auto;
+    position: relative;
+    opacity: 0.5;
+}
+
+div.scroll-container {
+    /* background-color: #333; */
+    overflow: auto;
+    white-space: nowrap;
+    /* padding: 10px; */
+  }
